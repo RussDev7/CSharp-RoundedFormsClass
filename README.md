@@ -2,7 +2,8 @@
 
 A lightweight helper that replaces WinForms’ classic window chrome with a **flat, theme‑able title‑bar, rounded corners, and fully‑custom minimise / maximise / close buttons**. Drop it into any `Form`, call one line of code, and instantly modernise your UI.
 
-- Part of **Core Keepers Workshop** and released under **GNU GPL v3**.
+- It’s part of **[Core Keepers Workshop](https://github.com/RussDev7/CoreKeepersWorkshop)** and is released under the **GNU GPL v3**.
+  - Also check out the [BorderlessTabControl](https://github.com/RussDev7/CSharp-BorderlessTabControl).
 
 ![CustomGUIUpdateRaw](https://github.com/user-attachments/assets/af62700a-807c-40a3-aabc-e5c669be9049)
 
